@@ -1,3 +1,2 @@
-# Just a test HTML file
-I'm just using this file to learn how to use Git
-This is an example repository
+# My digital art
+Here you can find my digital art, graphic design and other pieces of content I created.
